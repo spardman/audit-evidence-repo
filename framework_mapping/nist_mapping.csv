@@ -1,0 +1,4 @@
+"Internal_Policy,NIST_800_53_Control,Control_Name,Status"  
+"Password_Complexity_Policy,IA-5(1),Password_Complexity,Compliant"  
+"MFA_Requirement,IA-2(1),Multi-Factor_Authentication,Compliant"  
+"Session_Lock,AC-11,Session_Lock,Non-Compliant" 
